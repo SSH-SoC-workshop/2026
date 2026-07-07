@@ -88,3 +88,7 @@ defaults:
 
 exclude:
   - "robots.txt"
+  - vendor
+  - .bundle
+  - Gemfile
+  - Gemfile.lock
