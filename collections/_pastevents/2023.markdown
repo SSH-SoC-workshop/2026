@@ -1,0 +1,10 @@
+---
+year: 2023
+date: "July 9th, 2022"
+name: SSH-SoC
+location: "San Francisco, CA"
+pic: /assets/img/san-francisco-cover.jpeg
+caption: Safety and Security in Heterogeneous Open System-on-Chip Platforms
+hosted: DAC 2023
+hosted-url: https://www.dac.com/About/Conference-Archive/60th-DAC-2023
+---

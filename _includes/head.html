@@ -1,0 +1,38 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{% if page.title %}{{ site.title }} | {{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="{{ site.description }}">
+
+    <!-- Bootswatch CSS -->
+    <link rel="stylesheet" href="{{ "/assets/css/bootstrap.min.css" | relative_url }}">
+
+    <!-- Agency bootstrap CSS -->
+    <link rel="stylesheet" href="{{ "/assets/css/agency.css" | relative_url }}">
+
+    <!-- Customized CSS -->
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+
+    <!-- Font-Awesome CSS -->
+    <link rel="stylesheet" href="{{ "/assets/css/font-awesome.min.css" | relative_url }}">
+
+    <!-- Imported Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet"
+        type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet'
+        type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+
+    <!-- Social og tags -->
+    <meta property='og:title' content='SSH-SoC 2026 @ -'/>
+    <meta property='og:image' content='https://ssh-soc-workshop.github.io/2026/assets/img/social-cover.png?v2024'/>
+    <meta property='og:description' content='The diminishing returns of technology scaling on performance have paved the way for innovation in computer architecture towards heterogeneous, domain-specific architectures. Modern systems increasingly comprise domain-specific accelerators as well as specialized system components (buses, network-on-chip, peripherals, sensors, etc..) to efficiently handle the complex and computationally demanding workloads. '/>
+    <meta property='og:url' content='https://ssh-soc-workshop.github.io/2026/'/>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="{{ "/assets/icons/favicon.png" | relative_url }}">
+</head>
