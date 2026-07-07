@@ -5,7 +5,7 @@ permalink: /submission/
 ---
 ## Submission website
 
-SSH-SoC 2024 uses the easyChair conference management system. Submissions can be made here: [https://easychair.org/conferences/?conf=sshsoc24](https://easychair.org/conferences/?conf=sshsoc24)
+SSH-SoC 2026 uses the easyChair conference management system. Submissions can be made here: [https://easychair.org/conferences/?conf=sshsoc26](https://easychair.org/conferences/?conf=sshsoc26)
 
 ## Submission Instructions and Paper Format
 
