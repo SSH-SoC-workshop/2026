@@ -3,7 +3,7 @@ slug: seyoum
 name: Dr. Biruk Seyoum
 role: General Chair
 affiliation: Columbia University, New York City, New York
-email: bs3302@columbia.edu
+email: biruk@cs.columbia.edu
 webpage: https://www.linkedin.com/in/biruk-b-seyoum-0b9bbb75/
 pic: assets/data/organizers/seyoum.jpg
 bio: >-
