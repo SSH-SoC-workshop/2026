@@ -1,0 +1,10 @@
+---
+year: 2024
+date: "June 23rd, 2024"
+name: SSH-SoC
+location: "San Francisco, CA"
+pic: /assets/img/san-francisco-cover.jpeg
+caption: Safety and Security in Heterogeneous Open System-on-Chip Platforms
+hosted: DAC 2024
+hosted-url: https://www.dac.com
+---
