@@ -6,7 +6,7 @@ deadline: "TBD"
 notification: "TBD"
 camera-ready: "TBD"
 location: "San Jose, California, USA"
-cover: /assets/img/san-francisco-cover.jpeg
+cover: /assets/img/san-jose-cover.jpg
 caption: "SSH-SoC: Safety and Security in Heterogeneous Open System-on-Chip Platforms"
 submission: https://easychair.org/conferences/?conf=sshsoc26
 hosted: "ICCAD 2026"
