@@ -2,8 +2,8 @@
 layout: home
 year: 2026
 date: "November 8-12, 2026"
-deadline: "TBD"
-notification: "TBD"
+deadline: "August 19, 2026"
+notification: "September 11, 2026"
 camera-ready: "TBD"
 location: "San Jose, California, USA"
 cover: /assets/img/san-jose-cover.jpg
