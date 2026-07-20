@@ -43,4 +43,4 @@ The workshop will include the following three types of contributions:
 - Invited talks from expert speakers from both academia and industry, with slots of 30-45 minutes, depending on the number of talks.
 - An open discussion that will include experts both from academia and industry as well as the workshop’s audience to further support the discussion and community building in the workshop.
 
-We plan for an 8 hours workshop.
+We plan for a half-day workshop.
