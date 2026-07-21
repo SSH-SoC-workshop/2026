@@ -1,7 +1,7 @@
 ---
 layout: home
 year: 2026
-date: "November 8-12, 2026"
+date: "November 12, 2026"
 deadline: "August 19, 2026"
 notification: "September 11, 2026"
 camera-ready: "TBD"
