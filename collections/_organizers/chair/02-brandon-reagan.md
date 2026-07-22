@@ -1,6 +1,6 @@
 ---
 slug: reagan
-name: Dr. Brandon Reagan
+name: Prof. Brandon Reagen
 role: Technical Program Committee Chair
 affiliation: New York University (NYU)
 email: bjr5@nyu.edu
