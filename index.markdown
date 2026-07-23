@@ -2,9 +2,9 @@
 layout: home
 year: 2026
 date: "November 12, 2026"
-deadline: "August 19, 2026"
-notification: "September 11, 2026"
-camera-ready: "TBD"
+deadline: "September 7, 2026"
+notification: "October 5, 2026"
+camera-ready: "October 25, 2026"
 location: "San Jose, California, USA"
 cover: /assets/img/san-jose-cover.jpg
 caption: "SSH-SoC: Safety and Security in Heterogeneous Open System-on-Chip Platforms"
