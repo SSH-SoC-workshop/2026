@@ -2,7 +2,7 @@
 layout: home
 year: 2026
 date: "November 12, 2026"
-deadline: "September 7, 2026"
+deadline: "September 18, 2026"
 notification: "October 5, 2026"
 camera-ready: "October 25, 2026"
 location: "San Jose, California, USA"
