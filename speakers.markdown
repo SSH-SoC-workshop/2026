@@ -41,15 +41,13 @@ permalink: /speakers/
 {% endif %}
 {% endfor %}
 
+{% assign invited = site.speakers | where_exp: "p", "p.keynote != true" %}
+{% if invited.size > 0 %}
 <div class="row">
     <div class="col-sm-12">
         <h2 class="section-heading">{{ page.title }}</h2>
     </div>
 </div>
-
-{% assign invited = site.speakers | where_exp: "p", "p.keynote != true" %}
-{% if invited.size == 0 %}
-<h3>TBD</h3>
 {% endif %}
 
 {% for person in invited %}
