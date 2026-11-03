@@ -54,7 +54,7 @@ permalink: /agenda/
     <tr>
         <td>10:45-11:05</td>
         <td>
-            Interloper: Breaking Cross-Task Isolation on Embedded NPUs
+            Challenging Hardware Security Boundaries in On-Device AI
             <br><span class="program-speaker">Flavien Solt, National University of Singapore</span>
         </td>
     </tr>
