@@ -29,7 +29,7 @@ permalink: /agenda/
     <tr>
         <td>09:25-09:45</td>
         <td>
-            Runtime-Reconfigurable Tiled Architectures for Adaptive AI Acceleration
+            Agile Integration and Optimization of LLM Accelerators in Tiled SoCs
             <br><span class="program-speaker">Gabriele Tombesi, Columbia University</span>
         </td>
     </tr>
